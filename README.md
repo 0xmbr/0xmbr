@@ -18,7 +18,7 @@ I'm currently learning:
 ## 📫 How to Reach Me
 
 - **Email**: [moobmauler@gmail.com](mailto:moobmauler@gmail.com)
-- **LinkedIn**: [Aditya Suresh Nair]((https://www.linkedin.com/in/adityasureshnair)
+- **LinkedIn**: [Aditya Suresh Nair](https://www.linkedin.com/in/adityasureshnair)
 
 ## 💻 Tech Stack
 
