@@ -11,32 +11,32 @@ Still working on it
 ## 🌱 Learning
 
 I'm currently learning:
-
-AI 
+- Full stack web dev
+- C,C#,python
+- AI text generation
 
 ## 📫 How to Reach Me
 
 - **Email**: [moobmauler@gmail.com](mailto:moobmauler@gmail.com)
-- **LinkedIn**: [Aditya Suresh Nair]((https://www.linkedin.com/in/aditya-nair-7b4680249))
+- **LinkedIn**: [Aditya Suresh Nair]((https://www.linkedin.com/in/adityasureshnair)
 
 ## 💻 Tech Stack
 
-- **Languages**: [List of Languages, e.g., JavaScript, Python, Java]
-- **Frameworks**: [List of Frameworks, e.g., React, Django, Spring]
-- **Tools**: [List of Tools, e.g., Git, Docker, VS Code]
+- **Languages**: Python, C
+
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xmbr&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0xmbr&theme=onedark)
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or follow me on [Twitter](https://twitter.com/yourhandle).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityasureshnair).
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/yourusername)
+⭐️ From [0xmbr](https://github.com/0xmbr)
